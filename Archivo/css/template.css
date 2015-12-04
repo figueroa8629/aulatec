@@ -176,8 +176,17 @@ hr
     margin-top:35px;
 }
 
-@media screem and (max-width:480px){
+@media screem and (min-width:992px) and screem @media screem and (max-width:1200px){
+    .menu a {
+    font-size:16px; 
+    }
+    
+     
+    {
+
+    }
     .best-choice .dish
+    
     {
     float:none;
      
